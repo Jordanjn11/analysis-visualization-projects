@@ -1,0 +1,29 @@
+About Dataset
+Description:
+
+This dataset provides key economic indicators from various countries between 2010 and 2023. The dataset includes monthly data on inflation rates, GDP growth rates, unemployment rates, interest rates, and stock market index values. The data has been sourced from reputable global financial institutions and is suitable for economic analysis, machine learning models, and forecasting economic trends.
+Data Sources:
+
+The data has been generated to simulate real-world economic conditions, mimicking information from trusted sources like:
+
+    World Bank for GDP growth and inflation data
+    International Monetary Fund (IMF) for macroeconomic data
+    OECD for labor market statistics
+    National Stock Exchanges for stock market index values
+
+Columns:
+
+    Date: The specific date (in Year/Month/Day format) representing when the data was collected.
+    Country: The country the data pertains to (e.g., USA, Germany, Japan).
+    Inflation Rate (%): The rate of inflation for that country, showing how fast prices for goods and services are increasing.
+    GDP Growth Rate (%): The percentage growth of the country’s Gross Domestic Product (GDP), indicating economic expansion or contraction.
+    Unemployment Rate (%): The percentage of the working-age population that is unemployed.
+    Interest Rate (%): The central bank's interest rate, used to control inflation and influence the economy.
+    Stock Index Value: The value of the country’s main stock market index, reflecting the performance of the stock market.
+
+Potential Uses:
+
+    Economic Analysis: Researchers and analysts can use this dataset to study trends in inflation, GDP growth, unemployment, and other economic factors.
+    Machine Learning: This dataset can be used to train models for predicting economic trends or market performance.
+    Financial Forecasting: Investors and economists can leverage this data for forecasting market movements based on economic conditions.
+    Comparative Studies: The dataset allows comparisons across countries and regions, offering insights into global economic performance.
