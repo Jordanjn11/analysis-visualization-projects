@@ -1,0 +1,65 @@
+Order Number,Order Date,Customer ID,First Name,Last Name,Email,Address Line 1,Address Line 2,City,State,Zip,SKU#,Product Title,Variant Title 1,Variant Title 2,Line Item Price,Units,Vendor Name,Vendor ID,Status
+#3470040113292112,Jan/06/24 12:45:52,3470503636,Maria,Turetsky,maria_t@gmail.com,3831 Washington St,4c,Brooklyn,NY,11249,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1615841,Women's Performance Leggings,Green,Medium,45.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1615816,Men's Branded Polo,Blue,Small,40.0,1,Parabola,1234255,Confirmed
+#2000010312322112,Jan/07/24 17:19:45,2000314956,Jesse,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10018,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400160027202112,Jan/08/24 03:24:36,3401647394,Brockett,Moving,bmoving@yahoo.co.id,1212 E Baltimore St,,Baltimore,MD,21231,1605112,Men's Performance Tee,Blue,Medium,25.0,4,Parabola,1234255,Refunded
+#3400100158452112,Jan/12/24 01:46:38,3401036043,David,Gould,itsgould@voila.fr,7135 Princeton St.,,College Park,MD,20740,1615841,Women's Performance Leggings,Green,Medium,45.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Jan/12/24 01:46:38,3401036043,David,Gould,itsgould@voila.fr,7135 Princeton St.,,College Park,MD,20740,1615816,Men's Branded Polo,Blue,Small,40.0,1,Parabola,1234255,Confirmed
+#220001023382218,Jan/20/24 09:10:22,2200101503,Brad,George,brad.george23@gmail.com,320 Seaview Road,,New York,NY,10003,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#220001023382218,Jan/20/24 09:10:22,2200101503,Brad,George,brad.george23@gmail.com,320 Seaview Road,,New York,NY,10003,1603156,Unisex Branded Beanie,Grey,,20.0,1,Parabola,1234255,Confirmed
+#220001023382218,Jan/20/24 09:10:22,2200101503,Brad,George,brad.george23@gmail.com,320 Seaview Road,,New York,NY,10003,1564242,Women's Spring Joggers,Grey,Large,40.0,1,Parabola,1234255,Confirmed
+#3400160027092112,Jan/20/24 20:39:27,3401647392,Patrick,Barlog,longbar@uol.com.br,80 White Hill Rd,,Cornwall Bridge,CT,6754,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#2000010312142112,Jan/23/24 23:28:15,2000117809,Casey,Farel,Caseytasty@live.com,2686 N Timberglen Lane,,Fayetteville,AR,72701,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#220001022437215,Feb/15/24 21:34:31,2200100977,Sean,Riordan,yankees123@gmail.com,264 Bay St,,South Hamilton,MA,1982,1512276,Women's Atheleisure Top,Red,Small,30.0,2,Parabola,1234255,Confirmed
+#220001022437215,Feb/15/24 21:34:31,2200100977,Sean,Riordan,yankees123@gmail.com,265 Bay St,,South Hamilton,MA,1982,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#3400160027192112,Feb/18/24 21:34:47,3401642465,Anthony,Johnson,aj92348@gmail.com,47371 Ramsey Pl,,Sterling,VA,20165,1512276,Women's Atheleisure Top,Red,Small,30.0,2,Parabola,1234255,Confirmed
+#3400160027192112,Feb/18/24 21:34:47,3401642465,Anthony,Johnson,aj92348@gmail.com,47371 Ramsey Pl,,Sterling,VA,20165,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,2,Parabola,1234255,Confirmed
+#3400160027192112,Feb/18/24 21:34:47,3401642465,Anthony,Johnson,aj92348@gmail.com,47371 Ramsey Pl,,Sterling,VA,20165,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400090116672112,Feb/19/24 03:15:45,3400208829,Clancy,Steingut,clancy.stein@bigpond.com,3830 Fawn Hill Ave,,Kansas City,MO,64109,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#2000010312332112,Feb/23/24 16:16:17,2000118492,Hyrek,Smith,hyrekcran@gmail.com,2330 34th Ave S,,Seattle,WA,98144,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Cancelled
+#2000010312332112,Feb/23/24 16:16:17,2000118492,Hyrek,Smith,hyrekcran@gmail.com,2330 34th Ave S,,Seattle,WA,98144,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Cancelled
+#3400160027392112,Feb/26/24 08:09:58,3401647398,Jacqueline,Butler,jbutler@sympatico.ca,7032 38rd Ave Ne,,Seattle,WA,98115,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Cancelled
+#3400160027002112,Feb/26/24 23:49:03,3401642061,Jennifer,Egozi,egozi@gmail.com,1233 E End Ave,Phde,New York,NY,10024,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#4000100225432112,Feb/29/24 06:55:37,4001022578,Ivanna,Morales,imorales1223@live.com,404 E. 11th St. #2,,New York,NY,10009,1603156,Unisex Branded Beanie,Grey,,20.0,1,Parabola,1234255,Confirmed
+#4000100225432112,Feb/29/24 06:55:37,4001022578,Ivanna,Morales,imorales1223@live.com,404 E. 11th St. #2,,New York,NY,10009,1564242,Women's Spring Joggers,Grey,Large,40.0,1,Parabola,1234255,Confirmed
+#3400100158302112,Feb/29/24 17:28:47,3401036033,Sandy,Lewin,suzzy.lewin@gmail.com,316 Central 19th Street,,New York,NY,10003,1615841,Women's Performance Leggings,Green,Medium,45.0,1,Parabola,1234255,Confirmed
+#3400100158302112,Feb/29/24 17:28:47,3401036033,Sandy,Lewin,suzzy.lewin@gmail.com,316 Central 19th Street,,New York,NY,10003,1615816,Men's Branded Polo,Blue,Small,40.0,1,Parabola,1234255,Confirmed
+#3400160027102112,Mar/01/24 04:09:24,3401235825,Nancy,Richman,nrichman@gmail.com,77 Bread St,,Hingham,MA,2043,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#3400160027102112,Mar/01/24 04:09:24,3401235825,Nancy,Richman,nrichman@gmail.com,77 Bread St,,Hingham,MA,2043,1603156,Unisex Branded Beanie,Grey,,20.0,1,Parabola,1234255,Confirmed
+#3400160027102112,Mar/01/24 04:09:24,3401235825,Nancy,Richman,nrichman@gmail.com,77 Bread St,,Hingham,MA,2043,1564242,Women's Spring Joggers,Grey,Large,40.0,1,Parabola,1234255,Confirmed
+#3400100158322112,Mar/03/24 15:17:58,3401036035,Mark,Freddette,impossibleMark@tin.it,625 Park Road Nw,Apt 202,Washington,DC,20010,1615841,Women's Performance Leggings,Green,Medium,45.0,1,Parabola,1234255,Confirmed
+#3400160027132112,Mar/03/24 17:28:04,3401647393,Georgia,Kraft,craftmac@live.nl,12251 Dirt Rd,Unit 602,Lutherville Timonium,MD,21093,1606526,Men's Running Socks,White,Medium,12.0,1,Parabola,1234255,Confirmed
+#220001023382219,Mar/03/24 22:34:54,2200101504,Daniel,Jones,ddimes@gmail.com,20 Fawn Hill Ct,,Ramsey,NJ,17446,1512277,Women's Atheleisure Top,Red,Medium,30.0,3,Parabola,1234255,Confirmed
+#220001023382219,Mar/03/24 22:34:54,2200101504,Daniel,Jones,ddimes@gmail.com,20 Fawn Hill Ct,,Ramsey,NJ,17446,1564244,Women's Spring Joggers,,,40.0,4,Parabola,1234255,Confirmed
+#220001023382220,Mar/03/24 22:34:54,2200101504,Daniel,Jones,ddimes@gmail.com,20 Fawn Hill Ct,,Ramsey,NJ,17446,1606527,Men's Running Socks,White,Large,12.0,3,Parabola,1234255,Confirmed
+#220001023382221,Mar/03/24 22:34:54,2200101504,Daniel,Jones,ddimes@gmail.com,20 Fawn Hill Ct,,Ramsey,NJ,17446,1615842,Women's Performance Leggings,Green,Large,45.0,4,Parabola,1234255,Confirmed
+#3400100158382112,Mar/04/24 10:06:29,3401036039,Deborah,Waldor,dwaldorsplace@voila.fr,15 West 20th Street,Apt 6b,New York,NY,10011,1615816,Men's Branded Polo,Blue,Small,40.0,1,Parabola,1234255,Confirmed
+#3400100158472112,Mar/07/24 21:14:35,3401036036,Mark,Maguire,markm@gmail.com,104 Old West Rd,,Southport,CT,6490,1615822,Women's Performance Tee,Grey,Medium,25.0,2,Parabola,1234255,Refunded
+#3400090116572112,Mar/19/24 05:57:16,3400207715,Suzanne,Walden,suzannewall@live.com,1600 New Jersey Dr #301,,Winter Park,FL,32789,1606526,Men's Running Socks,White,Medium,12.0,2,Parabola,1234255,Confirmed
+#220001023114218,Mar/20/24 23:48:35,2200100048,Nolan,Ryan,noryan@yahoo.com.sg,305 E47th Street,,New York,NY,10017,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#220001023114218,Mar/20/24 23:48:35,2200100048,Nolan,Ryan,noryan@yahoo.com.sg,305 E47th Street,,New York,NY,10017,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400100158302112,Mar/25/24 22:56:53,3401036033,Sandy,Lewin,suzzy.lewin@gmail.com,316 Central 19th Street,,New York,NY,10003,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
+#4000250115982112,Mar/26/24 02:01:53,4002731254,Jill,Kim,jkim@optusnet.com.au,118 West St,,Boston,MA,2116,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#2000010312202112,Mar/30/24 12:51:31,2000118490,Jacobson,Mcnally,jmcnal@yahoo.com,274 N. Samuel St,Suit D-107,Rochester,NY,14607,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#2000010312212112,Mar/30/24 12:51:31,2000118491,Jacobson,Mcnally,jmcnal@yahoo.com,2629 Paul Street,,San Francisco,CA,94123,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#2000010312122112,Apr/04/24 01:47:23,2000118360,Ari,Carrol,acar@gmail.com,67 Rosedale Rd,,Princeton,NJ,8540,1615822,Women's Performance Tee,Grey,Medium,25.0,3,Parabola,1234255,Confirmed
+#3400100158112112,Apr/06/24 11:00:13,3401036029,Julia,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10128,1615841,Women's Performance Leggings,Green,Medium,45.0,1,Parabola,1234255,Confirmed
+#3400100158112112,Apr/06/24 11:00:13,3401036029,Julia,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10128,1615816,Men's Branded Polo,Blue,Small,40.0,1,Parabola,1234255,Confirmed
+#3400100158112112,Apr/06/24 11:00:13,3401036029,Julia,Crang,crangkyj@gmail.com,1133 Mets Ave,,New York,NY,10128,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400010188232112,Apr/07/24 23:28:19,3400120032,Serafino,Sadosky,sadosky@gmail.com,2655 Trae Ave,Apt 1412,Miami,FL,33140,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#4000250115672112,Apr/15/24 11:10:08,4003107249,Karla,Boston,karla.boston@yahoo.fr,400 Alton Rd #2204,,Miami Beach,FL,33139,1615841,Women's Performance Leggings,Green,Medium,45.0,6,Parabola,1234255,Cancelled
+#4000250115672112,Apr/15/24 11:10:08,4003107249,Karla,Boston,karla.boston@yahoo.fr,400 Alton Rd #2204,,Miami Beach,FL,33139,1615816,Men's Branded Polo,Blue,Small,40.0,3,Parabola,1234255,Cancelled
+#3400160027082112,Apr/18/24 18:43:21,3401647391,Dee,Reynolds,paddyspub@gmail.com,408 Andrews St,Apt 1,Hoboken,NJ,7030,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Confirmed
+#3400160027082112,Apr/18/24 18:43:21,3401647391,Dee,Reynolds,paddyspub@gmail.com,408 Andrews St,Apt 1,Hoboken,NJ,7030,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#3400160027082112,Apr/18/24 18:43:21,3401647391,Dee,Reynolds,paddyspub@gmail.com,408 Andrews St,Apt 1,Hoboken,NJ,7030,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1605112,Men's Performance Tee,Blue,Medium,25.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1512276,Women's Atheleisure Top,Red,Small,30.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1586082,Men's Spring Fleece,Blue/ White,Large,40.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1603156,Unisex Branded Beanie,Grey,,20.0,1,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1564242,Women's Spring Joggers,Grey,Large,40.0,3,Parabola,1234255,Confirmed
+#3400100158452112,Apr/25/24 02:13:48,3401036043,Daniel,Mehran,dmehran201@qq.com,16 Louis W Seth Drive,,Framingham,MA,1702,1606526,Men's Running Socks,White,Medium,12.0,1,Parabola,1234255,Confirmed
+#3400100158432112,Apr/27/24 22:55:32,3401036042,Christina,Hirsch,niceChristina@hotmail.es,1418 Sweetbeer Rd,,Charleston,WV,25314,1615822,Women's Performance Tee,Grey,Medium,25.0,1,Parabola,1234255,Confirmed
